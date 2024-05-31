@@ -1,0 +1,19 @@
+Best Model
+              precision    recall  f1-score   support
+
+           0       0.71      0.66      0.68       183
+           1       0.65      0.70      0.68       166
+
+    accuracy                           0.68       349
+   macro avg       0.68      0.68      0.68       349
+weighted avg       0.68      0.68      0.68       349
+
+Worst Model
+              precision    recall  f1-score   support
+
+           0       0.60      0.58      0.59       183
+           1       0.56      0.58      0.57       165
+
+    accuracy                           0.58       348
+   macro avg       0.58      0.58      0.58       348
+weighted avg       0.58      0.58      0.58       348
